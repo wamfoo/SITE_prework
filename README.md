@@ -65,7 +65,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://uci.zoom.us/rec/play/fAscHvUuFxwNwxJabsA8WUgnVS_aPQIySuJlpjmipDxXKPEzV3BPNI8f5qjgXI0mavGhRU_R_ME23SzC.gqnKNbPlVmByl7vT?continueMode=true&_x_zm_rtaid=rEdN4SJLSf2yBlVN8spYjg.1647941745056.a8080f9a36d6b474ce81369a2284dfb1&_x_zm_rhtaid=563)
+[My 5-minute Interview Recording](https://uci.zoom.us/rec/share/81rSh3XKYbGrBz0gSbuyxdBJdb_XtNwdt5fbBuh0ueUNuL5cLHh1nuJDctV2zLDD.t2uv9-HzW14jaRcX)
 
 
 ## License
