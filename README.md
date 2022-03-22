@@ -46,15 +46,19 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 [None]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 [My initial challenge had to do with time constraints. From a glance, I had thought completing the project would take longer than expected, but as I walked through the project it did not end up being so bad. Alongside there being images of what your code should currently look like, the dropdown references that give small pieces of information really helped clarify when I was unsure of why one would use such a thing over something else, for instance, using id instead of classes inside a HTML tag. With the small pieces of information, the amount of Googling I did was reduced. The last challenge I experienced was recording the gifs, my laptop did not naturally allow for screen recording alongside recording the internal audio of the laptop. To record the audio of whatever was playing on the laptop, would require me to go download a certain app and configure it to allow for recording to natively record internal audio. I decided to switch to my PC which runs on Windows and use OBS in order to capture my screen and audio. Since I already had OBS set up, all I had to do was record the gifs and upload them to my repo.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 [Is there a learning curve for learning tech stacks? At a first glance, it seems daunting to begin learning all these technologies. I’ve read that by the time you fully master a tech stack, it would have become obsolete. It seems interesting in comparison to learning a programming language like Python or C++. Companies doing progressive refactoring seems to be a thing, would it be worth it for someone new to web development to learn the latest tech stack or is it a specific situation. Such as learning a popular tech stack and then depending on what the company you are hired for uses, possibly forgot about the tech stack you learned and instead focus on learning the companies’ stack.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 [If I had a few more hours to work on the project, I would work on first implementing the optional features, specifically more than four game buttons and speeding the game up. Afterwards, attempt to implement the remaining optional features. If I were to get down the optional features, I’d work on cleaning up my code, refactoring any functions that could be written more cleanly, and researching more on possible methods to use to simplify code. Additional features that are beyond the optional features would come last.]
 
 
@@ -66,7 +70,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [William Mejia]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
